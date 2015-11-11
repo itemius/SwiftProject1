@@ -1,2 +1,2 @@
 # SwiftProject1
-simple image viewer
+simple image viewer + social sharing
